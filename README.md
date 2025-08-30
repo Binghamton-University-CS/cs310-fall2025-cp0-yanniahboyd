@@ -1,7 +1,7 @@
-Full Name:
-GitHub ID:
-Binghamton CS userid:
-Discord name:
+Full Name: Yanniah Boyd
+GitHub ID: yanniahboyd
+Binghamton CS userid: yboyd
+Discord name: Yanniah Boyd
 
 Please type or copy the CS 310 honesty statement here:
 
